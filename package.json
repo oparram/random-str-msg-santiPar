@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-santipar",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/random-str-msg-santipar.git"
+  },
+  "keywords": [],
+  "author": "Omar SAntiago Parra <oparram123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/random-str-msg-santipar/issues"
+  },
+  "homepage": "https://github.com/gndx/random-str-msg-santipar#readme",
+  "bin": {
+    "random-str-msg-santipar": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
